@@ -1,3 +1,4 @@
 # BookBot
 
-BookBot is a simple program used to analyze the data of any .txt file
+BookBot is a simple program used to analyze the data of any .txt file in English. Other languages such as Arabic are coming soon.
+
